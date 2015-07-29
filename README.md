@@ -4,9 +4,9 @@
 <a href="http://git.io/2S1IBQ" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/8963614/a7cea12a-35fb-11e5-8285-2c052e5ea386.jpg" width="180"  height="54" hspace= 0></a>
 
 <h5 class="GeneratedText">更新记录：</h5>
-2015-07-19 发布无界安卓版3.3</p>
-2015-06-24 发布无界浏览15.01版</p>
-2015-05-22 发布自由门7.54版</p>
+<p class="small">2015-07-19 发布无界安卓版3.3</p>
+<p class="small">2015-06-24 发布无界浏览15.01版</p>
+<p class="small">2015-05-22 发布自由门7.54版</p>
 
 
 <h2 class="GeneratedText">无法下载？请联系51@555111.info</h2>
