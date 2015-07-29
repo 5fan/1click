@@ -4,6 +4,8 @@
 <a href="http://git.io/HNvvvQ" target="_blank" title="下载无界浏览桌面版">无界浏览PC版</a>
 <a href="http://git.io/2S1IBQ " target="_blank" title="下载无界浏览安卓版">无界一点通安卓版</a></br>
 
+若以上地址无法下载，请用海外邮箱发送一封任意主题的空白邮件给 51@555111.info 即可获得最新版翻墙软件！</br>
+
 当前网址</br>
 http://sm.sppoc.com/</br>
 http://yy.neoneptune.com/</br>
