@@ -1,7 +1,7 @@
 #### 本站永久地址 ★ https://git.io/51fan ★（我要翻）
 
-##翻墙软件下载（7月19日更新）
-####完全免费 无需安装 一键翻墙
+##最新翻墙软件下载
+####完全免费 无需安装 一键翻墙 （7月19日更新）
 
 
 <a href="http://git.io/HNvvvQ"><img src="https://cloud.githubusercontent.com/assets/13546896/8962834/542bc3b2-35f7-11e5-8cd8-d275cecec187.jpg" width="180"  height="54"></a>
