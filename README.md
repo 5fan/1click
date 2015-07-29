@@ -1,4 +1,5 @@
-<a href="https://git.io/fgp" target="_blank" title="下载最新自由门">下载最新自由门</a>
+<a href="https://git.io/fgp" target="_blank" title="下载最新自由门">下载最新自由门</a></br>
+<a href="https://git.io/fgma" target="_blank" title="下载自由门安卓版">下载最新自由门</a></br>
 当前网址</br>
 http://sm.sppoc.com/</br>
 http://yy.neoneptune.com/</br>
