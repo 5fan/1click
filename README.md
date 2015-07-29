@@ -3,7 +3,7 @@
 <a href="https://git.io/fgp" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/8962833/542b236c-35f7-11e5-9b6b-5ecef4e6a46e.jpg" width="180"  height="54" hspace= 10>
 <a href="http://git.io/2S1IBQ" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/8963614/a7cea12a-35fb-11e5-8285-2c052e5ea386.jpg" width="180"  height="54" hspace= 0></a>
 
-更新记录：</p>
+<h5 class="GeneratedText">更新记录：</h5>
 2015-07-19 发布无界安卓版3.3</p>
 2015-06-24 发布无界浏览15.01版</p>
 2015-05-22 发布自由门7.54版</p>
