@@ -1,8 +1,3 @@
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://git.io/fgp" data-icon="octicon-cloud-download" data-style="mega" aria-label="Download znianw/1click on GitHub">Download</a>
-<!-- Place this tag right after the last button or just before your close body tag. -->
-<script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
-
 最新翻墙软件下载地址</p>
 <a href="https://git.io/fgp" target="_blank" title="下载最新自由门">自由门PC版</a>
 <a href="https://git.io/fgma" target="_blank" title="下载自由门安卓版">自由门安卓版</a></br></p>
