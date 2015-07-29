@@ -1,6 +1,6 @@
 #### 本站永久地址 ★ https://git.io/51fan ★（我要翻）
 
-##最新版翻墙软件下载
+##翻墙软件下载（7月19日更新）
 <a href="http://git.io/HNvvvQ"><div id="images"><img src="https://cloud.githubusercontent.com/assets/13546896/8962834/542bc3b2-35f7-11e5-8cd8-d275cecec187.jpg" width="180"  height="54"></a>
 <a href="http://git.io/2S1IBQ" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/8963614/a7cea12a-35fb-11e5-8285-2c052e5ea386.jpg" width="180"  height="54" hspace= 15></a>
 <a href="https://git.io/fgp" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/8962833/542b236c-35f7-11e5-9b6b-5ecef4e6a46e.jpg" width="180"  height="54"></a>
@@ -12,7 +12,7 @@
 - `2015-06-24` 发布无界浏览15.01版
 - `2015-05-22` 发布自由门7.54版
 
-##无界浏览介绍
+##软件介绍
 - 无界浏览是建立在GIFT技术平台上的客户端软件，全程超级安全加密，让您访问的网站和浏览的内容无人知晓，并且不会在本机和互联网上留下任何上网痕迹。保护用户的安全及隐私，是我们的第一宗旨和要务。助您隐秘跨越网络封锁，自由登陆世界上任何一家网站。无界浏览的特别镜像技术，让您快速地访问原本速度不高的网站，让翻墙浏览轻松自在。
 
 ##持续翻墙方法
