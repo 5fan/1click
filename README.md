@@ -1,4 +1,4 @@
-<a href="https://git.io/fgp" target="_blank" title="下载最新自由门">DIV+CSS</a>
+<a href="https://git.io/fgp" target="_blank" title="下载最新自由门">下载最新自由门</a>
 当前网址</br>
 http://sm.sppoc.com/</br>
 http://yy.neoneptune.com/</br>
